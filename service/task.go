@@ -3,9 +3,9 @@ package service
 import (
 	"time"
 
-	"github.com/dwivedisshyam/todo/model"
+	"github.com/Dilip-Valiya/todo/model"
 
-	"github.com/dwivedisshyam/todo/store"
+	"github.com/Dilip-Valiya/todo/store"
 )
 
 type taskService struct {

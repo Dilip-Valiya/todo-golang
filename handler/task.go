@@ -5,8 +5,8 @@ import (
 
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
 
-	"github.com/dwivedisshyam/todo/model"
-	"github.com/dwivedisshyam/todo/service"
+	"github.com/Dilip-Valiya/todo/model"
+	"github.com/Dilip-Valiya/todo/service"
 	"github.com/gin-gonic/gin"
 )
 

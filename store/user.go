@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
+	"github.com/Dilip-Valiya/todo/model"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
-	"github.com/dwivedisshyam/todo/model"
 )
 
 type userStore struct {

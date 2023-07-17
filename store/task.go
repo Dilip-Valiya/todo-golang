@@ -3,8 +3,8 @@ package store
 import (
 	"database/sql"
 
+	"github.com/Dilip-Valiya/todo/model"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
-	"github.com/dwivedisshyam/todo/model"
 )
 
 type taskStore struct {

@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/Dilip-Valiya/todo/handler"
+	"github.com/Dilip-Valiya/todo/service"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
-	"github.com/dwivedisshyam/todo/handler"
-	"github.com/dwivedisshyam/todo/service"
 	"github.com/gin-gonic/gin"
 )
 

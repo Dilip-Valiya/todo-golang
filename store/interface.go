@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/dwivedisshyam/todo/model"
+	"github.com/Dilip-Valiya/todo/model"
 )
 
 type User interface {

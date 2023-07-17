@@ -3,9 +3,9 @@ package service
 import (
 	"time"
 
+	"github.com/Dilip-Valiya/todo/model"
+	"github.com/Dilip-Valiya/todo/store"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
-	"github.com/dwivedisshyam/todo/model"
-	"github.com/dwivedisshyam/todo/store"
 	"golang.org/x/crypto/bcrypt"
 )
 
