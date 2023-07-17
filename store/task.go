@@ -3,7 +3,7 @@ package store
 import (
 	"database/sql"
 
-	"github.com/Dilip-Valiya/todo/model"
+	"github.com/Dilip-Valiya/todo-golang/model"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
 )
 

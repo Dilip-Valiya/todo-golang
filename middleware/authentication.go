@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Dilip-Valiya/todo/handler"
-	"github.com/Dilip-Valiya/todo/service"
+	"github.com/Dilip-Valiya/todo-golang/handler"
+	"github.com/Dilip-Valiya/todo-golang/service"
 	"github.com/dwivedisshyam/go-lib/pkg/errors"
 	"github.com/gin-gonic/gin"
 )

@@ -1,7 +1,7 @@
 package store
 
 import (
-	"github.com/Dilip-Valiya/todo/model"
+	"github.com/Dilip-Valiya/todo-golang/model"
 )
 
 type User interface {

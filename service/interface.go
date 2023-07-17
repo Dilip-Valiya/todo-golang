@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/Dilip-Valiya/todo/model"
+	"github.com/Dilip-Valiya/todo-golang/model"
 	"github.com/gin-gonic/gin"
 )
 

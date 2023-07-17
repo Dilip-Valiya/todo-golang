@@ -3,11 +3,11 @@ package main
 import (
 	"net/http"
 
-	"github.com/Dilip-Valiya/todo/db"
-	"github.com/Dilip-Valiya/todo/handler"
-	"github.com/Dilip-Valiya/todo/middleware"
-	"github.com/Dilip-Valiya/todo/service"
-	"github.com/Dilip-Valiya/todo/store"
+	"github.com/Dilip-Valiya/todo-golang/db"
+	"github.com/Dilip-Valiya/todo-golang/handler"
+	"github.com/Dilip-Valiya/todo-golang/middleware"
+	"github.com/Dilip-Valiya/todo-golang/service"
+	"github.com/Dilip-Valiya/todo-golang/store"
 
 	"github.com/gin-gonic/gin"
 )
